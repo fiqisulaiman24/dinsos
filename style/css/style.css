@@ -178,7 +178,7 @@ fieldset[disabled] .btn-outline-navy.active {
 /* Paragraph & Text */
 .heading_truncate{
     overflow: hidden;
-    max-height: 3.5rem;
+    max-height: 52px;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 5;
     text-overflow: ellipsis;
